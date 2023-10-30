@@ -1,9 +1,6 @@
-# 🍿 Experience Movie Magic with My Netflix Clone 🎬✨
-
-Ready for the ultimate streaming adventure? Dive into my Netflix clone, where entertainment knows no bounds! Discover a world of movies, series, and original content right at your fingertips.
-
-With a sleek user interface and an extensive library, your binge-watching journey begins here. Explore the magic of cinema from the comfort of your screen.
-
-Start streaming now and get ready for endless entertainment! 📺🍕
-
- Tools used : HTML, CSS.
+Live Hosted Link : https://remarkable-jalebi-91bfa1.netlify.app/
+Tools used : HTML, CSS.
+# 🎥 Experience Netflix, Reimagined | Your Netflix Clone Journey Begins
+# 📺 Discover Movie Magic | A Replica of the Streaming Giant
+# 🍿 Movie Nights, Redefined | Watch, Enjoy, and Dive In ✨
+                        
